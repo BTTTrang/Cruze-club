@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ui.dangky.DangkyFragment"
+    android:orientation="vertical"
+    android:padding="20dp"
+
+    >
+
+    <EditText
+        android:id="@+id/txtInsertFullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Tên đầy đủ" />
+
+    <EditText
+        android:id="@+id/txtInsertFBName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Tên facebook" />
+
+    <EditText
+        android:id="@+id/txtInsertAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Địa chỉ" />
+
+    <EditText
+        android:id="@+id/txtInsertStamp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Tem số" />
+
+    <EditText
+        android:id="@+id/txtInsertPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Số điện thoại" />
+
+    <EditText
+        android:id="@+id/txtInsertGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Giới tính" />
+
+    <EditText
+        android:id="@+id/txtInsertPlate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="text"
+        android:maxLines="1"
+        android:fontFamily="sans-serif-light"
+        android:hint="Biển số xe" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Up hình biển số xe" />
+
+    <ImageView
+        android:id="@+id/imageViewUploadedPlate"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_menu_camera" />
+
+    <Button
+        android:id="@+id/btnDangKy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Đăng Ký" />
+</LinearLayout>

@@ -1,0 +1,168 @@
+{
+  "accounts" : {
+    "cxvxcv" : {
+      "password" : 234234,
+      "username" : "thutrang"
+    }
+  },
+  "agency" : {
+    "mienbac" : {
+      "-MgnGROq8US4hang3b_x" : {
+        "agencyaddress" : "Số 8 Lê Quang Đạo, Mỹ Đình, Từ Liêm, Hà Nội",
+        "agencyname" : "​Chevrolet Thăng Long",
+        "hotline" : "0394758493"
+      },
+      "-MgnGV9nrGk1xb0qUDiF" : {
+        "agencyaddress" : "Số 1 Nguyễn Văn Linh, Gia Thụy, Long Biên, Hà Nội",
+        "agencyname" : "Chevrolet Thăng Long Đại Việt",
+        "hotline" : "023464634"
+      },
+      "-MgnGY0vUfE6uTAw4-wg" : {
+        "agencyaddress" : "358 Đường Láng (phố Yên Lãng), Thịnh Quang, Đống Đa, Hà Nội",
+        "agencyname" : "Chevrolet Newway",
+        "hotline" : "0345345835"
+      }
+    },
+    "miennam" : {
+      "-MgnGjg3dXFSHLgkgJAu" : {
+        "agencyaddress" : "643 Quốc Lộ 1, KP 2, Phường Long Bình, Biên Hòa, Đồng Nai",
+        "agencyname" : "Chevrolet Biên Hòa",
+        "hotline" : "034534543"
+      },
+      "-MgnGm_Xp4D-G7ImhJto" : {
+        "agencyaddress" : "T6/27 Đại Lộ Bình Dương, Khu Phố Bình Đức 2, Bình Hoà, TX Thuận An, Bình Dương",
+        "agencyname" : "Chevrolet Nam Thái",
+        "hotline" : "066757535"
+      },
+      "-MgnH25_0S17F5qm4xnV" : {
+        "agencyaddress" : "936 Quốc lộ 1A, Phường Thạnh Xuân, Quận 12, TP Hồ Chí Minh",
+        "agencyname" : "Chevrolet Việt Long",
+        "hotline" : "034534543"
+      },
+      "-MgnH6FrsHKrnT21JO_S" : {
+        "agencyaddress" : "Số 3 Quốc Hương, phường Thảo Điền, Quận 2, TP Hồ Chí Minh",
+        "agencyname" : "Chevrolet Đông Đô Thành",
+        "hotline" : "095493743"
+      }
+    },
+    "mientrung" : {
+      "-MgnGbkq6B4WdpDcIoVI" : {
+        "agencyaddress" : "Số 133 Lê Duẩn, Quảng Trị",
+        "agencyname" : "Chevrolet Quảng Trị",
+        "hotline" : "023486439"
+      },
+      "-MgnGf4Ck_3mvFvsIov_" : {
+        "agencyaddress" : "A 2-2, Ngã tư Tuyên Sơn, Đường 2/9 Đà Nẵng",
+        "agencyname" : "Chevrolet Đà Nẵng",
+        "hotline" : "0345345345"
+      }
+    }
+  },
+  "carcodes" : {
+    "-MgnFL5sYW2-hNMxskoW" : {
+      "codedes" : "Không nhận diện được điều khiển từ xa bằng sóng radio, đạp bàn đạp ly hợp để khởi động lại.",
+      "codename" : "Code 2"
+    },
+    "-MgnFNIcb_DEaciXd3h5" : {
+      "codedes" : "Trụ lái bị khóa",
+      "codename" : "Code 5"
+    },
+    "-MgnFQ44jDqjXCiKnonq" : {
+      "codedes" : "Xoay vô lăng, tắt khóa điện rồi mở lại",
+      "codename" : "Code 7"
+    },
+    "-MgnF_N1oRkuj033QjlJ" : {
+      "codedes" : "Xoay vô lăng, khởi động lại động cơ",
+      "codename" : "Code 9"
+    },
+    "-MgnFbrve51Qj6nTfiRl" : {
+      "codedes" : "Lỗi xi nhan trái phía trước",
+      "codename" : "Code 25"
+    },
+    "-MgnFdQIQzNFDn-WcGw2" : {
+      "codedes" : "Lỗi xi nhan trái phía sau",
+      "codename" : "Code 26"
+    },
+    "-MgnFfSMEDjDo1kOZiVK" : {
+      "codedes" : "Lỗi xi nhan phải phía trước",
+      "codename" : "Code 27"
+    },
+    "-MgnFkN-ZePHgcEdJuzU" : {
+      "codedes" : "Lỗi xi nhan phải phía sau",
+      "codename" : "Code 28"
+    },
+    "-MgnFnMjEuQgko60UmVW" : {
+      "codedes" : "Thay pin cho điều khiển từ xa bằng sóng radio",
+      "codename" : "Code 35"
+    },
+    "-MgnFpcBvYyjoVvuCkyP" : {
+      "codedes" : "Nước trong bầu lọc nhiên liệu",
+      "codename" : "Code 54"
+    },
+    "-MgnFs_xH8ji5259oQdZ" : {
+      "codedes" : "Lái xe ít nhất 15 phút để khởi động lại bộ lọc muội diesel (DPF)",
+      "codename" : "Code 55"
+    },
+    "-MgnFvWSXc2iQlrlggeu" : {
+      "codedes" : "Bảo dưỡng khóa trụ lái",
+      "codename" : "Code 67"
+    },
+    "-MgnFxn3cqR0DO_4pB87" : {
+      "codedes" : "Bảo dưỡng vô lăng",
+      "codename" : "Code 68"
+    },
+    "-Mi6BzdKItH8ox-TkTUO" : {
+      "codedes" : "Bảo dưỡng điều hòa",
+      "codename" : "Code75"
+    }
+  },
+  "info" : "Cộng đồng Cruze Club\r\nCruze Club với 5500 thành viên đến từ mọi miền. Cùng niềm đam mê, yêu thích chiếc xe Cruze. Để các thành viên gắn bó giúp đỡ chia sẽ với nhau tốt hơn , BQT Cruze Club ới những thành viên công nghệ IT đưa ứng dụng App vào để giúp cho thành viên Cruzer được giao lưu, được hỗ trợ trên mọi nẽo đường. Chỉ cần nhập biển số xe Cruze, chúng ta có thể gọi điện giúp đỡ, chia sẽ với nhau. Các thành viên hay đăng ký để ứng dụng mang lại nhiều tiện ích. Tất cả vì Văn hóa an toàn giao thông và Tinh thần Cruze. Vì đam mê Cruze Club. Quyết tâm xây dựng và thực hiện văn hóa gia đình Cruze Club",
+  "partner" : {
+    "baohiem" : {
+      "-MgnHdVGndReShSDEQMB" : {
+        "agencyaddress" : "Tầng 4, số 316 đường Trần Hưng Đạo, Phường Đại Phúc, Thành phố Bắc Ninh, Bắc Ninh",
+        "agencyname" : "CÔNG TY BẢ HIỂM BẢO LONG BẮC NINH",
+        "hotline" : "0847397584"
+      }
+    },
+    "doxe" : {
+      "-MgnHRK6u99fO0E8idjr" : {
+        "agencyaddress" : "Chung cư 789 Bộ Quốc Phòng - Phường Mỹ Dình 2 - Nam Từ Liêm - Hà Nội",
+        "agencyname" : "Gara Toàn Huế",
+        "hotline" : "093453453"
+      },
+      "-MgnHVd0aQ6TvPvkiYK8" : {
+        "agencyaddress" : "Số 2 Lê Quang Đạo, Nam Từ Liêm , Hà Nội ( bên cạnh sân vận động Mỹ Dình)",
+        "agencyname" : "Gara Độ Xe MYS - Gara Song Tùng",
+        "hotline" : "0345345435"
+      },
+      "-MgnHZHR8aXr7sFCpOGT" : {
+        "agencyaddress" : "Đối diện Trường Tiểu Học Nam Trung Yên",
+        "agencyname" : "Nội thất Oto Hưng Khang",
+        "hotline" : "0345345345"
+      }
+    }
+  },
+  "registered" : {
+    "-Mi6BcTN2myyz1A7k4Ih" : {
+      "address" : "Nguyễn Khả Trạc, Hoà Châu, Hòa Vang, Đà Nẵng",
+      "fb_name" : "Bùi Trang",
+      "fileName" : "6539590146119fe114eef10.95049728.png",
+      "fullname" : "Bùi Thị Thu Trang",
+      "gender" : "Nữ",
+      "phone" : "012758495",
+      "plate" : "99 - H7 7060",
+      "stamp" : "1234"
+    },
+    "-Mi6txPr87u1sUH4fl_L" : {
+      "address" : "23/3 Nguyễn An Ninh, Phường 14, Bình Thạnh, TP Hồ Chí Minh",
+      "fb_name" : "Tường My",
+      "fileName" : "2663487776128eaae7882c7.92159073.png",
+      "fullname" : "Đinh Tường My",
+      "gender" : "Nữ",
+      "phone" : "0773320655",
+      "plate" : "59 - P1 02269",
+      "stamp" : 1234
+    }
+  }
+}

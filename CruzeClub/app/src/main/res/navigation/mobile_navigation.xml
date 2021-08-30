@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.test.cruzeclub.ui.home.HomeFragment"
+        android:label="Tra cứu biển số"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.test.cruzeclub.ui.carcode.CarCodeFragment"
+        android:label="Mã Code"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.test.cruzeclub.ui.slideshow.SlideshowFragment"
+        android:label="Đại lý Ủy quyền Cruze"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_partner"
+        android:name="com.test.cruzeclub.ui.partner.PartnerFragment"
+        android:label="Bạn Đồng Hành"
+        tools:layout="@layout/fragment_partner" />
+
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="com.test.cruzeclub.ui.gioithieu.IntroFragment"
+        android:label="Giới thiệu"
+        tools:layout="@layout/fragment_intro" />
+
+    <fragment
+        android:id="@+id/nav_dangky"
+        android:name="com.test.cruzeclub.ui.dangky.DangkyFragment"
+        android:label="Đăng Ký"
+        tools:layout="@layout/fragment_dangky" />
+
+</navigation>
